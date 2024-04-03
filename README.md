@@ -1,6 +1,6 @@
 # Huffmann Coding
 
-## [Live-Link](https://pratyush2331.github.io/File-Compression-Huffman-Coding/)
+## [Live-Link](https://rakshan25.github.io/file-compression/)
 
 ## Overview
 Huffman Coding is a compression algorithm used to reduce the size of data files by efficiently encoding characters. It is widely used in applications where data compression is crucial, such as in file compression utilities and network protocols.
